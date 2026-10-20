@@ -1,3 +1,7 @@
+<div align="center"><img src="https://raw.githubusercontent.com/1stsimplifycode/1stsimplifycode/main/assets/universal-project-3d.svg" width="100%" alt="Animated isometric engineering project" /></div>
+
+[← Portfolio](https://github.com/1stsimplifycode) · [Domains](https://github.com/1stsimplifycode/1stsimplifycode/blob/main/docs/PROJECT_DIRECTORY.md)
+
 # GitHub Analyzer
 
 GitHub Analyzer is a web application that allows you to analyze a GitHub user's profile, repositories, and programming language usage. It provides a detailed summary of the user's repositories, the languages used in each repository, and a proficiency summary based on the languages used.
